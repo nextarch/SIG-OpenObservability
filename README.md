@@ -40,6 +40,6 @@ The combination of programmability and efficiency makes eBPF a natural fit for a
 | Feng Wu                | DiDi Global   |
 
 
-#### Open Source
+#### Open Source Project
 
 **HuaTuo @DiDi Global** is event driven, i.e., it extracts observability data when linux kernel events that we take care of, occurs. With this data, it is easy to figure out what the root cause of issues. More importantly, **HuaTuo** can trace linux kernel/applications for performance troubleshooting because we can also sample the data, then generate a CPU flame graph effectively.
